@@ -318,12 +318,8 @@ One way the implementation diverged from the spec is that I used a simple regex/
 
 ## Demo Video
 
-Demo video link:
 
-```text
-https://drive.google.com/file/d/1z0FITJchc7szUEUK_xmTxFST9rvKBfPH/view?usp=sharing
-
-```
+Demo video link: [Watch the demo](https://drive.google.com/file/d/1z0FITJchc7szUEUK_xmTxFST9rvKBfPH/view?usp=sharing)
 
 The demo should show:
 
