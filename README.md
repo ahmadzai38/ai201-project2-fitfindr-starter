@@ -321,7 +321,7 @@ One way the implementation diverged from the spec is that I used a simple regex/
 Demo video link:
 
 ```text
-PASTE_DEMO_VIDEO_LINK_HERE
+https://drive.google.com/file/d/1z0FITJchc7szUEUK_xmTxFST9rvKBfPH/view?usp=sharing
 ```
 
 The demo should show:
